@@ -11,7 +11,12 @@ Shows the brightness of the room in arbatrary units from 0 to
 
 ## Issues
 
- - Unknown
+ - None/Unknown
+   
+
+## Created for
+
+Engineering 1020: Intro to Programming laboratory assignment, Memorial University
 
 
 ## Copyright
